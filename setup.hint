@@ -1,0 +1,5 @@
+category: Net Text
+requires: mono mono-glade-sharp2.0 mono-glib-sharp2.0 mono-gtk-sharp2.0
+sdesc: "GUI for Google Translate service"
+ldesc: "youTranslate is just a small and simple application that lets 
+you use the Google Translate service in an easy and fast way."
